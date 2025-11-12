@@ -1,3 +1,4 @@
+#include<stdio.h>
 float g_Allowances;
 float g_Deductions;
 unsigned char g_Rand_No[8] = {25};
